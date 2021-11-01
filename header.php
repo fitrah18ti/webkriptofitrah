@@ -25,7 +25,7 @@
 				</div>
 				<div id="navbar-collapse-02" class="collapse navbar-collapse">
 					<ul class="nav navbar-nav navbar-right">
-						<li class="propClone"><a href="welcome.php">Beranda</a></li>
+						<li class="propClone"><a href="index.php">Beranda</a></li>
 						<li class="propClone"><a href="sejarah.php">Sejarah</a></li>
 						<li class="propClone"><a href="definisi.php">Definisi</a></li>
 						<li class="propClone"><a href="jenis.php">Jenis</a></li>
